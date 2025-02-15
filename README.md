@@ -2,7 +2,7 @@
 - 👀 I’m interested in anime girls
 - 🌱 I’m currently learning Java
 - 💞️ I’m not looking to collaborate
-- 📫 How to reach me: lord130
+- 📫 How to reach me: lord130 on Discord
 
 <!---
 lord130/lord130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
